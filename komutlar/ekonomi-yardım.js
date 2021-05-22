@@ -21,7 +21,7 @@ exports.run = (client, message) => {
 
 
 `)
- .setFooter(` Anqriel Ekonomi Botu `)
+ .setFooter(` Vuslat Ekonomi Bot `)
  .setTimestamp()
  message.channel.send(AsreaperEmbed)
 }
