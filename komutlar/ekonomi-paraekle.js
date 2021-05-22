@@ -28,6 +28,6 @@ exports.conf = {
 
 exports.help = {
     name: 'ekle',
-    description: 'Asreaper',
-    usage: 'Asreaper'
+    description: 'Anqriel',
+    usage: 'Anqriel'
 }
