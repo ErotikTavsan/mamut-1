@@ -1,12 +1,12 @@
 [
 	{
-		"isim": "Başlangıç Kasası",
+		"isim": "Vus Mon Başlangıç Kasası",
     "açıklama": "Başlangıç olarak ideal olan bir kasa.",
-		"fiyat": "100",
+		"fiyat": "200",
     "kasaid": "1"
 	},
 	{
-		"isim": "Orta Düzey Kasa",
+		"isim": "Vus Mon Orta Düzey Kasası",
     "açıklama": "Orta düzeyde olan bir kasa.",
 		"fiyat": "500",
     "kasaid": "2"
