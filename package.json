@@ -1,7 +1,7 @@
 {
   "name": "hello-express",
   "version": "1.0.0",
-  "description": "ASreaper Ekonomi Botu",
+  "description": "Anqriel Ekonomi Botu",
   "descrtiption2": "ASreaper Yotube Kanalında Paylaşılmıştır",
   "main": "asreaper.js",
   "scripts": {
