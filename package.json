@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "Anqriel Ekonomi Botu",
   "descrtiption2": "ASreaper Yotube Kanalında Paylaşılmıştır",
-  "main": "asreaper.js",
+  "main": "bot.js",
   "scripts": {
-    "start": "node asreaper.js"
+    "start": "node bot.js"
   },
   "dependencies": {
     "array-sort": "^1.0.0",
